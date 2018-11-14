@@ -112,3 +112,6 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local Config Folder/Files
+config/
